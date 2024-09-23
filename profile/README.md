@@ -1,3 +1,3 @@
 # Hi there 👋
 
-[App download](https://picguard.app) · [Play online](https://picguard.app/play)
+[App download](https://www.picguard.app/download) · [Play online](https://picguard.app/play)
